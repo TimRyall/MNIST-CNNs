@@ -1,7 +1,7 @@
 # MNIST-CNNs
------------
+---
 Using convolutional neural networks to classify images found within the MNIST (digit recognition) data set
-
+---
 
 The data file train.csv contains gray-scale images of hand-drawn digits, from zero through nine.
 
